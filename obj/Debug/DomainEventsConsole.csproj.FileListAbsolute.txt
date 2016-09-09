@@ -1,0 +1,1 @@
+C:\Users\YHLIN\Documents\GitHub\DomainEventsConsole\DomainEventsConsole\bin\Debug\DomainEventsConsole.exe.config
