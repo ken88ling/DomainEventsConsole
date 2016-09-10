@@ -1,1 +1,11 @@
 C:\Users\YHLIN\Documents\GitHub\DomainEventsConsole\DomainEventsConsole\bin\Debug\DomainEventsConsole.exe.config
+C:\Users\YHLIN\Documents\GitHub\DomainEventsConsole\DomainEventsConsole\bin\Debug\DomainEventsConsole.exe
+C:\Users\YHLIN\Documents\GitHub\DomainEventsConsole\DomainEventsConsole\bin\Debug\DomainEventsConsole.pdb
+C:\Users\YHLIN\Documents\GitHub\DomainEventsConsole\DomainEventsConsole\bin\Debug\nunit.framework.dll
+C:\Users\YHLIN\Documents\GitHub\DomainEventsConsole\DomainEventsConsole\bin\Debug\StructureMap.dll
+C:\Users\YHLIN\Documents\GitHub\DomainEventsConsole\DomainEventsConsole\bin\Debug\nunit.framework.xml
+C:\Users\YHLIN\Documents\GitHub\DomainEventsConsole\DomainEventsConsole\bin\Debug\StructureMap.pdb
+C:\Users\YHLIN\Documents\GitHub\DomainEventsConsole\DomainEventsConsole\bin\Debug\StructureMap.xml
+C:\Users\YHLIN\Documents\GitHub\DomainEventsConsole\DomainEventsConsole\obj\Debug\DomainEventsConsole.csprojResolveAssemblyReference.cache
+C:\Users\YHLIN\Documents\GitHub\DomainEventsConsole\DomainEventsConsole\obj\Debug\DomainEventsConsole.exe
+C:\Users\YHLIN\Documents\GitHub\DomainEventsConsole\DomainEventsConsole\obj\Debug\DomainEventsConsole.pdb
